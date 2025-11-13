@@ -9,30 +9,30 @@ To create an interactive photo gallery using **HTML**, **CSS**, and **JavaScript
 
 ## DESIGN STEPS:
 
-### Step 1:
+#### Step 1:
 Create a new folder for the project.
 
-### Step 2:
+#### Step 2:
 Inside the folder, create the following files:
 - `index.html`
 - `gallery.css`
 - `gallery.js`
 
-### Step 3:
+#### Step 3:
 Design the gallery layout in HTML include a heading, a main display area for large images, and thumbnail images.
 
-### Step 4:
+#### Step 4:
 Style the gallery using CSS to make it visually appealing and responsive with hover and focus effects.
 
-### Step 5:
+#### Step 5:
 Use JavaScript to add interactivity:
 - Display a larger version of the image when hovering over a thumbnail.
 - Enable navigation using the left and right arrow keys.
 
-### Step 6:
+#### Step 6:
 Test the gallery in a browser to ensure all features work correctly.
 
-### Step 7:
+#### Step 7:
 Review the design and finalize.
 
 
