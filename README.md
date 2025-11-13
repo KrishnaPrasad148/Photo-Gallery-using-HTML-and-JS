@@ -1,4 +1,4 @@
-# EX04 Creating a Photo Gallery using HTML and JavaScript
+# EX08 Creating a Photo Gallery using HTML and JavaScript
 
 ### Date: 13/11/25  
 
