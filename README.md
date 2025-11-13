@@ -189,7 +189,11 @@ function handleKeyNav(event) {
 
 
 ## OUTPUT:
+<img width="1919" height="919" alt="web1" src="https://github.com/user-attachments/assets/0ed0eb3c-3838-46ca-842e-1ad0052805d6" />
 
+<img width="1919" height="918" alt="web2" src="https://github.com/user-attachments/assets/5ca778b5-3fdb-4a4f-8bf9-0c783608b38d" />
+
+<img width="1919" height="918" alt="web3" src="https://github.com/user-attachments/assets/0500346f-2e0b-49da-b9b5-7eef53103273" />
 
 ## RESULT:
 The **Photo Gallery** was successfully created using **HTML**, **CSS**, and **JavaScript** with interactive image hover and keyboard navigation features.
